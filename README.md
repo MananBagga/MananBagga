@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Manan Bagga</h1>
 <h2 align="center">💻 Software Engineer | Full Stack Developer | Problem Solver</h2>
-![Profile Views](https://komarev.com/ghpvc/?username=MananBagga&style=flat-square&color=blue)
 ---
 
 ### 🧠 About Me  
