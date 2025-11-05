@@ -58,7 +58,7 @@ Built using **Django**, **PostgreSQL**, and **Bootstrap**.
 #### ✅ [Todo List](https://github.com/MananBagga/ToDo)
 A simple yet dynamic task management app using **React**, **Context API**, and **AWS deployment**.
 
-#### 🧩 [Voting System using Linked List](https://github.com/MananBagga/Voting-System)  
+#### 🧩 [Voting System using Linked List](https://github.com/MananBagga/GamesAndvotingSystem)
 A C++ implementation demonstrating use of **Linked List** for vote management and winner selection logic.
 
 #### 🧠 [Vibe Check Quiz App](https://github.com/MananBagga/Emergent_internship_Vibe_check_app) 
