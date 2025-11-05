@@ -46,22 +46,23 @@
 
 ### 🚀 Featured Projects  
 
-#### 🧾 [Flextraff](https://github.com/MananBagga/Flextraff)  
+#### 🧾 [Flextraff Admin Panel (React)](https://github.com/MananBagga/Flextraff-Admin-Panel)
+#### 🧾 [Flextraff Backend (FastAPI)](https://github.com/APSK22/flextraff-backend))
 A smart traffic management system that dynamically controls signal timings based on vehicle data.  
 Built with **FastAPI**, **Supabase**, and **React** under a microservices architecture.
 
-#### 🗂️ [PMU WebApp](https://github.com/MananBagga/PMU-WebApp)  
+#### 🗂️ [PMU WebApp](https://github.com/MananBagga/CIET_PMU))  
 Fund management system for CIET, NCERT — includes admin and user roles, program assignment, and analytics.  
 Built using **Django**, **PostgreSQL**, and **Bootstrap**.
 
-#### ✅ [Todo List](https://github.com/MananBagga/Todo-List)  
+#### ✅ [Todo List](https://github.com/MananBagga/ToDo)
 A simple yet dynamic task management app using **React**, **Context API**, and **AWS deployment**.
 
 #### 🧩 [Voting System using Linked List](https://github.com/MananBagga/Voting-System)  
 A C++ implementation demonstrating use of **Linked List** for vote management and winner selection logic.
 
-#### 🧠 [Sudoku Solver](https://github.com/MananBagga/Sudoku-Solver)  
-Classic backtracking problem solved using **C++**, optimized for efficient recursion and validation.
+#### 🧠 [Vibe Check Quiz App](https://github.com/MananBagga/Emergent_internship_Vibe_check_app) 
+A fun and interactive quiz web app built completely by prompt engineering to analyze users’ moods and personalities based on playful questions and more
 
 ---
 
